@@ -11,7 +11,7 @@ My skills:
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)&nbsp;
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)](#)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp;
+<!-- [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](#)&nbsp; -->
 
 Stay in touch with me by:
 
