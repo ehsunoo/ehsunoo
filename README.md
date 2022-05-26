@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ehsan
 
-The languages and tools that we spend our time together:
+My skills:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -10,6 +10,8 @@ The languages and tools that we spend our time together:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+Stay in touch with me by:
 
 [![Instagram](https://img.shields.io/badge/instagram-f0f0f0?&style=flat-square&logoColor=white&logo=instagram&color=c13584)](https://instagram.com/ehsunoo)
 [![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=flat-square&logoColor=white&logo=telegram&color=gray)](https://t.me/ehsunoo)
