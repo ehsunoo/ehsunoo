@@ -17,9 +17,9 @@
 
 ###### Contact:
 
-[![Instagram](https://img.shields.io/badge/instagram-f0f0f0?&style=flat-square&logoColor=white&logo=instagram&color=c13584)](https://instagram.com/ehsunoo)
-[![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=flat-square&logoColor=white&logo=telegram&color=gray)](https://t.me/ehsunoo)
-[![Twitter](https://img.shields.io/badge/twitter-f0f0f0?&style=flat-square&logoColor=white&logo=twitter&color=00acee)](https://twitter.com/ehsunoo)
-[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=flat-square&logo=gmail&logoColor=white&color=ea4335)](mailto:info.hamrah@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=flat-square&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ehsunoo)
+[![Instagram](https://img.shields.io/badge/Instagram-f0f0f0?&style=flat-square&logoColor=white&logo=instagram&color=c13584)](https://instagram.com/ehsunoo)
+[![Telegram](https://img.shields.io/badge/Telegram-f0f0f0?&style=flat-square&logoColor=white&logo=telegram&color=gray)](https://t.me/ehsunoo)
+[![Twitter](https://img.shields.io/badge/Twitter-f0f0f0?&style=flat-square&logoColor=white&logo=twitter&color=00acee)](https://twitter.com/ehsunoo)
+[![GMail](https://img.shields.io/badge/GMail-f0f0f0?&style=flat-square&logo=gmail&logoColor=white&color=ea4335)](mailto:info.hamrah@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-f0f0f0?&style=flat-square&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ehsunoo)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)](#)&nbsp;
