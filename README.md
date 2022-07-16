@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome
 
- My name is Ehsan and I'm a fullstack developer. 
+ My name is **Ehsan** and I'm a **fullstack developer**. 
  Here you can read my bio and my skills.
 
 
