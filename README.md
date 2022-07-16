@@ -1,6 +1,8 @@
 # 👋 Hi, Welcome
 
-> Welcome!
+ My name is Ehsan and I'm a fullstack developer. 
+ Here you can read my bio and my skills.
+
 
 ## Skills:
 
@@ -41,6 +43,7 @@ IDE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)](#)
 
 ## Contact:
+You could Keeping in touch with me by below communication ways:
 
 [![Instagram](https://img.shields.io/badge/Instagram-f0f0f0?&style=flat-square&logoColor=white&logo=instagram&color=c13584)](https://instagram.com/ehsunoo)
 [![Telegram](https://img.shields.io/badge/Telegram-f0f0f0?&style=flat-square&logoColor=white&logo=telegram&color=gray)](https://t.me/ehsunoo)
