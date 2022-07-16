@@ -24,6 +24,7 @@ Frontend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)](#)
 [![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)](#)
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)
 [![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)](#)
 
 Embedded:&nbsp;&nbsp;
