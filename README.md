@@ -5,8 +5,10 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)](#)&nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;
 [![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)](#)&nbsp;
+
 [![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](#)&nbsp;
 [![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](#)&nbsp;
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)&nbsp;
 [![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)](#)&nbsp;
