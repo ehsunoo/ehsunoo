@@ -1,38 +1,38 @@
-# 👋 Hi, I’m Ehsan
+# 👋 Hi, Welcome
 
 > Welcome!
 
 ## Skills:
 
 Design: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)](#)&nbsp;
-[![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)&nbsp;
-[![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)](#)&nbsp;
-[![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styled-components)](#)&nbsp;
+[![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)
+[![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)](#)
+[![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styled-components)](#)
 
 Backend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](#)&nbsp;
-[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](#)&nbsp;
-[![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)](#)&nbsp;
+[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](#)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)](#)
 
 Frontend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;
-[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)&nbsp;
-[![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)](#)&nbsp;
-[![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)](#)&nbsp;
+[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)
+[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)
+[![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)](#)
+[![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)](#)
 
 Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)](#)&nbsp;
-[![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)](#)&nbsp;
-[![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)](#)&nbsp;
+[![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)](#)
+[![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)](#)
+[![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)](#)
 
 Embedded:&nbsp;&nbsp;
-[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](#)&nbsp;
-[![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=arm)](#)&nbsp;
+[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](#)
+[![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=arm)](#)
 
 Editors:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)&nbsp;
-[![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)](#)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
+[![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)](#)
 
 ## Contact:
 
