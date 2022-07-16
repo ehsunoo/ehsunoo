@@ -10,16 +10,20 @@ Design: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)](#)
 [![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styled-components)](#)
 
-Backend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](#)
-[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](#)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)](#)
-
 Frontend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)
 [![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)](#)
 [![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)](#)
+
+Backend:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](#)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)](#)
+
+Database:&nbsp;&nbsp;&nbsp;&nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)](#)
 
 Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)](#)
@@ -31,7 +35,7 @@ Embedded:&nbsp;&nbsp;
 [![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](#)
 [![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=arm)](#)
 
-Editors:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+IDE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)](#)
 
