@@ -34,6 +34,7 @@ Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Embedded:&nbsp;&nbsp;
 [![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](#)
 [![ARM](https://img.shields.io/badge/-ARM-05122A?style=flat&logo=arm)](#)
+[![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)](#)
 
 IDE:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
