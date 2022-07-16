@@ -9,6 +9,7 @@
 [![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](#)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)&nbsp;
+[![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)](#)&nbsp;
 
 ###### Softwares:
 
