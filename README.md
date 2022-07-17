@@ -3,7 +3,10 @@
  My name is **Ehsan** and I'm a **fullstack developer**. 
  Here you can read my bio and my skills.
 
-<img src="https://user-images.githubusercontent.com/7151395/179396170-f4c61394-c8d2-4854-a25c-0793019ba6c5.jpg"/>
+<p align="center">
+ <img width="700" src="https://user-images.githubusercontent.com/7151395/179396170-f4c61394-c8d2-4854-a25c-0793019ba6c5.jpg" style="border-radius:10px"/>
+</p>
+
 
 ## Skills:
 
