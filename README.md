@@ -28,9 +28,9 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)](#)
 
 **Tools**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)](#)
-[![Vite](https://img.shields.io/badge/-vite-05122A?style=flat&logo=vite)](#)
-[![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)](#)
+[![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)](#)
+[![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)](#)
+[![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](#)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)
 [![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)](#)
 
