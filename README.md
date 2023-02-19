@@ -13,6 +13,7 @@
 
 **Frontend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](#)
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)
 [![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)](#)
 [![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)](#)
@@ -28,6 +29,7 @@
 
 **Tools**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)](#)
+[![Vite](https://img.shields.io/badge/-vite-05122A?style=flat&logo=vite)](#)
 [![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)](#)
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)
 [![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)](#)
