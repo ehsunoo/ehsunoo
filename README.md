@@ -9,6 +9,8 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)
 [![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)](#)
+[![Sass](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)](#)
+[![Sass](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindCSS)](#)
 [![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styled-components)](#)
 
 **Frontend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
